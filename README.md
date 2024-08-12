@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://youtube.com/@s.d179?si=049Ve1UVtkxkC8Ll"><img width="32px" alt="Youtube" title="Youtube" src="assets/youtube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/pax_penguina999"><img width="32px" alt="Twitter" title="Twitter" src="assets/linkedin.png"/></a>
+  <a href="https://x.com/pax_penguina999"><img width="32px" alt="Twitter" title="Twitter" src="assets/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/penguina0424" alt="Join our community"><img width="32px" src="assets/discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
