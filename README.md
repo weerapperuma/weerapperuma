@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **SpringBoot & MERN**
 
-- 📫 You can reach me **weerapperumasahiru@gmail.com**
+- 📫 You can reach me **weerapperumasahiru.me**
 
 ---
 
@@ -34,53 +34,35 @@
 </p>
 
 ---
-<h1 align="center">MY TOP 5 PROJECTS</h1>
+<h1 align="center">MY TOP 3 PROJECTS</h1>
 
 <table border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td style="border: none; padding: 10px;">
       <h4>1. Portfolio</h4>
       <a href="https://github.com/weerapperuma/WSahiruDeshan.git" target="_blank">
-        <img src="assets/shangrila_gr.jpg" width="100%" />
+        <img src="assets/portfolio-site.png" width="100%" />
       </a>
       <p>A personal portfolio to showcase projects and skills.</p>
-      <p><strong>Tech Stack:</strong> HTML, CSS, JavaScript, React</p>
+      <p><strong>Tech Stack:</strong>TypeScript, React, Tailwind</p>
     </td>
     <td style="border: none; padding: 10px;">
-      <h4>2. CeylonWear MERN</h4>
-      <a href="https://github.com/weerapperuma/WSahiruDeshan.git" target="_blank">
-        <img src="assets/shangrila_gr.jpg" width="100%" />
+      <h4>2. CeylonWear MERN site</h4>
+      <a href="https://github.com/weerapperuma/CeylonWear-frontend.git" target="_blank">
+        <img src="assets/ceylonwear_site.png" width="100%" />
       </a>
       <p>An e-commerce platform for selling Sri Lankan fashion items.</p>
       <p><strong>Tech Stack:</strong> MongoDB, Express, React, Node.js (MERN)</p>
     </td>
   </tr>
-  <tr>
-    <td style="border: none; padding: 10px;">
-      <h4>3. Project 3</h4>
-      <a href="https://github.com/weerapperuma/WSahiruDeshan.git" target="_blank">
-        <img src="assets/shangrila_gr.jpg" width="100%" />
-      </a>
-      <p>Description of project 3 goes here.</p>
-      <p><strong>Tech Stack:</strong> MongoDB, Express, React, Node.js (MERN)</p>
-    </td>
-    <td style="border: none; padding: 10px;">
-      <h4>4. Project 4</h4>
-      <a href="https://github.com/weerapperuma/WSahiruDeshan.git" target="_blank">
-        <img src="assets/shangrila_gr.jpg" width="100%" />
-      </a>
-      <p>Description of project 4 goes here.</p>
-      <p><strong>Tech Stack:</strong> MongoDB, Express, React, Node.js (MERN)</p>
-    </td>
-  </tr>
   <tr align="center">
     <td style="border: none; padding: 10px;" colspan="2">
-      <h4>5. Project 5</h4>
-      <a href="https://github.com/weerapperuma/WSahiruDeshan.git" target="_blank">
-        <img src="assets/shangrila_gr.jpg" width="100%" />
+      <h4>3. Ultimate Movie Site</h4>
+      <a href="https://github.com/weerapperuma/movie-site-react.git" target="_blank">
+        <img src="assets/movie_site.png" width="100%" />
       </a>
       <p>Description of project 5 goes here.</p>
-      <p><strong>Tech Stack:</strong> MongoDB, Express, React, Node.js (MERN)</p>
+      <p><strong>Tech Stack:</strong> TMDB, Appwrite, React, Vite, Tailwind</p>
     </td>
   </tr>
 </table>
